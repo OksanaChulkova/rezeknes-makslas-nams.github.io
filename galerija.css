@@ -75,7 +75,7 @@
   display: inline-block;
   position: absolute;
   background-size: cover;
-  background-image: url('https://static.lsm.lv/media/2022/11/thumbnail/1/jiim.jpg');
+  
 }
 .galerija-slider-wrapper {
   position: relative;
@@ -92,7 +92,7 @@
   position: absolute;
   align-items: center;
   background-size: 100%;
-  background-image: url('https://latgale.travel/wp-content/uploads/2019/08/makslas_nams6.jpg');
+
 }
 .galerija-slider-slide1 {
   display: flex;
@@ -103,7 +103,6 @@
   align-items: center;
   background-size: 100%;
   justify-content: flex-start;
-  background-image: url('https://static.lsm.lv/media/2016/11/large/0/6gaj.jpg');
 }
 .galerija-slider-pagination {
   display: block;
