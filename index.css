@@ -436,7 +436,7 @@
   background-size: cover;
   justify-content: space-between;
   background-color: var(--dl-color-gray-white);
-  background-image: linear-gradient(180deg, rgba(236, 216, 153, 0.92) 0.00%,rgba(236, 216, 153, 0.92) 1.00%,rgba(193, 175, 138, 0.34) 34.00%,rgba(193, 175, 138, 0.31) 99.00%),url('https://rositten.lv/wp-content/uploads/2020/10/16-Re%CC%84zeknes-Valsts-skolota%CC%84ju-institu%CC%84ts-1926.-gads.-Latgales-Kultu%CC%84rve%CC%84stures-muzeja-kra%CC%84jums-1200x845.jpg');
+  background-image: linear-gradient(180deg, rgba(236, 216, 153, 0.92) 0.00%,rgba(236, 216, 153, 0.92) 1.00%,rgba(193, 175, 138, 0.34) 34.00%,rgba(193, 175, 138, 0.31) 99.00%);
 }
 .home-pricing-card:hover {
   transform: scale(1.02);
