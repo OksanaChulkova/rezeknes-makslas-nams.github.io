@@ -1,1 +1,0 @@
-# rezeknes-makslas-nams.github.io
