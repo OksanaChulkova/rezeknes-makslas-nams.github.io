@@ -493,7 +493,7 @@
   flex-direction: column;
   background-size: cover;
   background-color: var(--dl-color-gray-white);
-  background-image: linear-gradient(90deg, rgba(176, 163, 140, 0.65) 1.00%,rgba(223, 183, 138, 0.31) 100.00%),url('https://latgale.travel/wp-content/uploads/2019/08/makslas_nams6.jpg');
+  background-image: linear-gradient(90deg, rgba(176, 163, 140, 0.65) 1.00%,rgba(223, 183, 138, 0.31) 100.00%),;
   background-position: center;
   border-top-left-radius: 50px;
   border-top-right-radius: 50px;
