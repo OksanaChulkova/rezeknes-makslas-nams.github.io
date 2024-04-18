@@ -544,7 +544,7 @@
   flex-direction: column;
   padding-bottom: var(--dl-space-space-twounits);
   background-size: cover;
-  background-image: linear-gradient(180deg, rgba(204, 192, 129, 0.57) 1.00%,rgba(215, 195, 151, 0.57) 35.00%,rgba(210, 191, 149, 0.31) 46.00%,rgba(219, 198, 154, 0.25) 100.00%),url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAXVD6O7Yn05ZK7wGOv9jweUKd727yciMZOywiMDxClA&s');
+  background-image: linear-gradient(180deg, rgba(204, 192, 129, 0.57) 1.00%,rgba(215, 195, 151, 0.57) 35.00%,rgba(210, 191, 149, 0.31) 46.00%,rgba(219, 198, 154, 0.25) 100.00%);
   background-position: center;
 }
 .home-pricing-card2:hover {
